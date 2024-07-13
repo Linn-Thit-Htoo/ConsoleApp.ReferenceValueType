@@ -1,4 +1,6 @@
-﻿public class ValueTypeExample
+﻿namespace ConsoleApp.ReferenceValueType;
+
+public class ValueTypeExample
 {
     public static void Main(string[] args)
     {
